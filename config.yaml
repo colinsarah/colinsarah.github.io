@@ -1,0 +1,13 @@
+---
+baseurl: "https://colinsarah.github.io"
+DefaultContentLanguage: "zh-cn"
+hasCJKLanguage: true
+languageCode: "zh-cn"
+title: "River's Site"
+theme: "beautifulhugo"
+metaDataFormat: "yaml"
+algolia:
+  index: "qikqiak-blog"
+  key: "3f541d53f128036d7542f6f2362d4a67"
+  appID: "XYLRNJ38SQ"
+---
